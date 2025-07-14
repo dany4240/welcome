@@ -10,18 +10,18 @@ Welcome to my GitHub space! I'm a tech lover currently exploring full-stack deve
 - MS SQL & Database Design  
 - Mobile App Dev
 - Web Development 
-- Cybersecurity Basics  
+- Cybersecurity Basics
+- Video Game Dev
 
 💻 **Tech I Use**  
-- Languages: C#, Java, HTML/CSS, JavaScript  
-- Frameworks/Tools: .NET, Flutter, Git, VS Code  
-- Databases: MS SQL, Firebase  
-- Others: Canva (for quick UI drafts!), Figma  
+- Languages: C++, C#, Java, HTML/CSS, JavaScript 
+- Frameworks/Tools: .NET, Flutter, Git, VS Code, Visual Studio  
+- Databases: MS SQL, PHPMyAdmin  
+- Others: Canva, Figma  
 
 🌱 **Projects in Progress**  
 - Polishing my web portfolio!
-- Fun-to-play Quiz App (Flutter)  
-- A few fun mini-games and automation scripts  
+- Learning-based driving game using Unity Engine!
 
 📫 **Let’s Connect!**  
 - [LinkedIn](https://www.linkedin.com/in/danial-asyraf-3258b2264/)  
